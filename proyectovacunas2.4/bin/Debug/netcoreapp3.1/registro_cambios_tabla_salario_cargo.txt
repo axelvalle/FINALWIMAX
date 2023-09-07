@@ -1,0 +1,14 @@
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 5/9/2023 20:36:05
+
+Cambios:
+Fila modificada (ID_SALARIOS_CARGOS: 1)
+	SALARIO: 15000.0000 -> 16000.0000
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 6/9/2023 21:54:41
+
+Cambios:
+Fila modificada (ID_SALARIOS_CARGOS: 3)
+	SALARIO: 20000000.0000 -> 20000.0000
+------------------------------------

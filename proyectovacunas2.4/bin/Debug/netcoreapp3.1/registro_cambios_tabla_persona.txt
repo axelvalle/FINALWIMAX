@@ -1,0 +1,11 @@
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 5/9/2023 15:47:05
+
+Cambios:
+Fila modificada (Cédula: 001150991345K)
+	CEDULA: 0011509991345K -> 001150991345K
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 5/9/2023 15:50:23
+
+Cambios:

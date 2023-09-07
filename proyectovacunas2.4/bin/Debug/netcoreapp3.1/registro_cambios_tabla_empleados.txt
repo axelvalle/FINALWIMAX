@@ -1,0 +1,220 @@
+Usuario que lo modificó: MG
+Fecha y Hora: 4/9/2023 01:46:29
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: MG
+Fecha y Hora: 4/9/2023 01:46:48
+
+Cambios:
+Fila modificada (Cédula: 001130598)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: MG
+Fecha y Hora: 4/9/2023 01:47:17
+
+Cambios:
+Fila modificada (Cédula: 001130598)
+	ID_CARGO_EMPLEADO: 1 -> 2
+------------------------------------
+Usuario que lo modificó: MG
+Fecha y Hora: 4/9/2023 01:55:13
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ID_AREA_EMPLEADO: 1 -> 2
+------------------------------------
+Usuario que lo modificó: MG
+Fecha y Hora: 4/9/2023 01:55:55
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ID_CARGO_EMPLEADO: 1 -> 4
+------------------------------------
+Usuario que lo modificó: MG
+Fecha y Hora: 4/9/2023 01:56:38
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ID_AREA_EMPLEADO: 1 -> 3
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 4/9/2023 09:16:35
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ID_AREA_EMPLEADO: 2 -> 1
+------------------------------------
+Usuario que lo modificó: will.esp
+Fecha y Hora: 4/9/2023 09:19:25
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	FECHA_REGISTRO: 2/9/2023 21:09:48 -> 2/9/2008 21:09:00
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: will.esp
+Fecha y Hora: 4/9/2023 09:23:33
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: will.esp
+Fecha y Hora: 4/9/2023 09:23:46
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ID_AREA_EMPLEADO: 3 -> 1
+------------------------------------
+Usuario que lo modificó: will.esp
+Fecha y Hora: 4/9/2023 09:27:42
+
+Cambios:
+Fila modificada (Cédula: 001130598)
+	ID_AREA_EMPLEADO: 1 -> 2
+------------------------------------
+Fila modificada (Cédula: 0011309041897Y)
+	ID_AREA_EMPLEADO: 1 -> 2
+	ACTIVO: True -> False
+------------------------------------
+Fila modificada (Cédula: 0011509991345K)
+	ID_AREA_EMPLEADO: 1 -> 2
+------------------------------------
+Fila modificada (Cédula: 0011703033421Y)
+	ID_CARGO_EMPLEADO: 1 -> 4
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: MG
+Fecha y Hora: 4/9/2023 09:30:11
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 4/9/2023 09:30:34
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: MG
+Fecha y Hora: 4/9/2023 09:31:08
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 4/9/2023 09:31:32
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: MG
+Fecha y Hora: 5/9/2023 14:14:37
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	USUARIO: MG -> maria.guillen
+------------------------------------
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 5/9/2023 14:19:20
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 5/9/2023 14:31:28
+
+Cambios:
+Fila modificada (Cédula: 0011509991345K)
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 5/9/2023 14:38:41
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 5/9/2023 14:46:26
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 5/9/2023 21:45:13
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 5/9/2023 21:46:37
+
+Cambios:
+Fila modificada (Cédula: 0011309041897Y)
+	ACTIVO: False -> True
+------------------------------------
+Fila modificada (Cédula: 0011703033421Y)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 6/9/2023 01:16:47
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 6/9/2023 12:03:33
+
+Cambios:
+Fila modificada (Cédula: 0011809031023L)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 6/9/2023 12:09:07
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ACTIVO: True -> False
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 6/9/2023 18:00:50
+
+Cambios:
+Fila modificada (Cédula: 0011703033421Y)
+	ACTIVO: False -> True
+------------------------------------
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 6/9/2023 21:07:08
+
+Cambios:
+Fila modificada (Cédula: 0011309041897Y)
+	ID_CARGO_EMPLEADO: 1 -> 6
+------------------------------------
+Fila modificada (Cédula: 0011703033421Y)
+	ID_CARGO_EMPLEADO: 4 -> 1
+------------------------------------
+Fila modificada (Cédula: 0011809031023L)
+	ID_CARGO_EMPLEADO: 4 -> 7
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 6/9/2023 21:24:03
+
+Cambios:
+Fila modificada (Cédula: 0011309041897Y)
+	ID_CARGO_EMPLEADO: 6 -> 1
+------------------------------------
+Fila modificada (Cédula: 0011703033421Y)
+	ID_CARGO_EMPLEADO: 1 -> 6
+------------------------------------

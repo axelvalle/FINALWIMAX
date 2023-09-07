@@ -1,0 +1,19 @@
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 5/9/2023 19:46:36
+
+Cambios:
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 5/9/2023 20:36:59
+
+Cambios:
+Fila modificada (ID_CARGO: 1)
+	REGISTRO: 2/9/2023 20:59:27 -> 2/9/2001 20:59:00
+------------------------------------
+Usuario que lo modificó: maria.guillen
+Fecha y Hora: 6/9/2023 21:05:51
+
+Cambios:
+Fila modificada (ID_CARGO: 6)
+	NOMBRE_CARGO: Recepcionista -> Contador
+	ESPECIALIDAD: Servicios -> Finanzas
+------------------------------------

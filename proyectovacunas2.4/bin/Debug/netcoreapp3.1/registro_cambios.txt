@@ -1,0 +1,21 @@
+------------------------------------
+Usuario: axel.valle
+Fecha y Hora: 4/9/2023 00:55:42
+
+Cambios:
+Cédula: 0011703033421Y -> 0011703033421Y
+Área: 1 -> 1
+Cargo: 1 -> 1
+Fecha Registro: 2/9/2023 21:09:48 -> 2/9/2023 21:09:48
+Activo: False -> True
+------------------------------------
+Usuario que lo modifico: will.esp
+Fecha y Hora: 4/9/2023 00:57:05
+
+Cambios:
+Cédula: 001130598 -> 001130598
+Área: 1 -> 1
+Cargo: 1 -> 1
+Fecha Registro: 3/5/2023 20:04:00 -> 3/1/2009 10:04:00
+Activo: True -> False
+------------------------------------

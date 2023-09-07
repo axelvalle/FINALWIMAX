@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Mostrar\Administracion\MostrarTablaArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrar\Administracion\MostrarTablaPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\Administración.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrar\Administracion\MostrarTablaSalarios_cargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\FrameCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrar\Administracion\MostrarTablaCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrar\MostrarTablaConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrar\MostrarTablaReceta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrar\MostrarTablaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrar\MostrarTablaPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrar\MostrarTablaEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\Recetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReporteConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReporteEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReportePaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReporteProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReporteReceta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\Pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal\principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

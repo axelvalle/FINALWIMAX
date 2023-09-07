@@ -1,0 +1,28 @@
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 6/9/2023 21:44:18
+
+Cambios:
+Fila modificada (ID Consulta: 1)
+	PRESION_SANGUINEA: 22 -> 20
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 6/9/2023 21:44:28
+
+Cambios:
+Fila modificada (ID Consulta: 1)
+	PRESION_SANGUINEA: 22 -> 21
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 6/9/2023 21:46:42
+
+Cambios:
+Fila modificada (ID Consulta: 1)
+	PRESION_SANGUINEA: 22 -> 20
+------------------------------------
+Usuario que lo modificó: axel.valle
+Fecha y Hora: 6/9/2023 21:46:51
+
+Cambios:
+Fila modificada (ID Consulta: 1)
+	PRESION_SANGUINEA: 20 -> 21
+------------------------------------
