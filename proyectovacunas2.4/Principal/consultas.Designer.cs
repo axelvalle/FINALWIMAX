@@ -30,6 +30,7 @@ namespace proyectovacunas2._4
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmconsultas));
             txtoxigeno = new TextBox();
             lbloxigeno = new Label();
             txtdiagnostico = new TextBox();
@@ -404,6 +405,7 @@ namespace proyectovacunas2._4
             DoubleBuffered = true;
             Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             FormBorderStyle = FormBorderStyle.None;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(4);
             Name = "frmconsultas";
             StartPosition = FormStartPosition.CenterScreen;

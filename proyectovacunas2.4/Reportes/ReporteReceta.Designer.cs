@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ReporteReceta));
             btnpdf = new System.Windows.Forms.Button();
             btnactualizar = new System.Windows.Forms.Button();
             label1 = new System.Windows.Forms.Label();
@@ -186,6 +187,7 @@
             Controls.Add(lblwimax);
             Controls.Add(logo);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "ReporteReceta";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Load += ReporteReceta_Load;

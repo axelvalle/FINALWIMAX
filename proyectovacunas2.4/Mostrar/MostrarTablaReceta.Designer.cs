@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MostrarTablaReceta));
             btnLog = new System.Windows.Forms.Button();
             button1 = new System.Windows.Forms.Button();
             btnClean = new System.Windows.Forms.Button();
@@ -166,6 +167,7 @@
             Controls.Add(txtBuscar);
             Controls.Add(lblempleados);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "MostrarTablaReceta";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             ((System.ComponentModel.ISupportInitialize)dtReceta).EndInit();

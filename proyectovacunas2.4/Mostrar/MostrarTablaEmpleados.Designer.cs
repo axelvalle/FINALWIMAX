@@ -29,6 +29,7 @@ namespace proyectovacunas2._4.Mostrar
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MostrarTablaEmpleados));
             lblempleados = new System.Windows.Forms.Label();
             txtBuscar = new System.Windows.Forms.TextBox();
             btnBuscar = new System.Windows.Forms.Button();
@@ -39,10 +40,10 @@ namespace proyectovacunas2._4.Mostrar
             ID_CARGO_EMPLEADO = new System.Windows.Forms.DataGridViewTextBoxColumn();
             FECHA_REGISTRO = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ACTIVO = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            USUARIO = new System.Windows.Forms.DataGridViewTextBoxColumn();
             btnClean = new System.Windows.Forms.Button();
             button1 = new System.Windows.Forms.Button();
             btnLog = new System.Windows.Forms.Button();
-            USUARIO = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)dtEmpleado).BeginInit();
             SuspendLayout();
             // 
@@ -131,6 +132,13 @@ namespace proyectovacunas2._4.Mostrar
             ACTIVO.Name = "ACTIVO";
             ACTIVO.Width = 125;
             // 
+            // USUARIO
+            // 
+            USUARIO.HeaderText = "USUARIO";
+            USUARIO.MinimumWidth = 6;
+            USUARIO.Name = "USUARIO";
+            USUARIO.Width = 125;
+            // 
             // btnClean
             // 
             btnClean.Location = new System.Drawing.Point(608, 76);
@@ -161,13 +169,6 @@ namespace proyectovacunas2._4.Mostrar
             btnLog.UseVisualStyleBackColor = true;
             btnLog.Click += btnLog_Click;
             // 
-            // USUARIO
-            // 
-            USUARIO.HeaderText = "USUARIO";
-            USUARIO.MinimumWidth = 6;
-            USUARIO.Name = "USUARIO";
-            USUARIO.Width = 125;
-            // 
             // MostrarTablaEmpleados
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -184,6 +185,7 @@ namespace proyectovacunas2._4.Mostrar
             Controls.Add(lblempleados);
             DoubleBuffered = true;
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "MostrarTablaEmpleados";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MostrarTablaCargo));
             btnLog = new System.Windows.Forms.Button();
             button1 = new System.Windows.Forms.Button();
             btnClean = new System.Windows.Forms.Button();
@@ -268,6 +269,7 @@
             Controls.Add(groupBox1);
             Controls.Add(lblempleados);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "MostrarTablaCargo";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Load += MostrarTablaCargo_Load;

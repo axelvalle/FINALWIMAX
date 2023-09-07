@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmproductos));
             nombre_prod = new System.Windows.Forms.Label();
             fecha_vencimiento = new System.Windows.Forms.Label();
             lblefectos = new System.Windows.Forms.Label();
@@ -203,6 +204,7 @@
             Controls.Add(nombre_prod);
             DoubleBuffered = true;
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "frmproductos";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Productos";

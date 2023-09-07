@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Recetas));
             lblcodreceta = new System.Windows.Forms.Label();
             lblprodreceta = new System.Windows.Forms.Label();
             lblcantidad = new System.Windows.Forms.Label();
@@ -190,6 +191,7 @@
             DoubleBuffered = true;
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             HelpButton = true;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "Recetas";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Recetas";

@@ -132,3 +132,13 @@ C:\Users\volds\Desktop\WIMAXCENTROMEDICO-main\Log_Negocio\obj\Debug\netcoreapp3.
 C:\Users\volds\Desktop\WIMAXCENTROMEDICO-main\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.dll
 C:\Users\volds\Desktop\WIMAXCENTROMEDICO-main\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.pdb
 C:\Users\volds\Desktop\WIMAXCENTROMEDICO-main\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.deps.json
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.AssemblyReference.cache
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfo.cs
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\WILLIAM\Desktop\FINALWIMAX\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.pdb

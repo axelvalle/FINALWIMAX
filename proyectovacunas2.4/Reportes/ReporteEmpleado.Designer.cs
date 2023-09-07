@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ReporteEmpleado));
             logo = new System.Windows.Forms.PictureBox();
             lblwimax = new System.Windows.Forms.Label();
             lbldireccion = new System.Windows.Forms.Label();
@@ -204,6 +205,7 @@
             Controls.Add(lblwimax);
             Controls.Add(logo);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "ReporteEmpleado";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Load += ReporteEmpleado_Load;

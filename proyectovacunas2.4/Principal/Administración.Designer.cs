@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Administración));
             btnarea = new System.Windows.Forms.Button();
             btncargo = new System.Windows.Forms.Button();
             btnpersona = new System.Windows.Forms.Button();
@@ -109,6 +110,7 @@
             Controls.Add(btncargo);
             Controls.Add(btnarea);
             DoubleBuffered = true;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "Administración";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Administración";

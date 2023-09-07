@@ -118,3 +118,13 @@ C:\Users\volds\Desktop\WIMAXCENTROMEDICO-main\CapaBD\obj\Debug\netcoreapp3.1\Cap
 C:\Users\volds\Desktop\WIMAXCENTROMEDICO-main\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.dll
 C:\Users\volds\Desktop\WIMAXCENTROMEDICO-main\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.pdb
 C:\Users\volds\Desktop\WIMAXCENTROMEDICO-main\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.deps.json
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.AssemblyReference.cache
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfo.cs
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\WILLIAM\Desktop\FINALWIMAX\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.pdb

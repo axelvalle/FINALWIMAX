@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrameCita));
             btnLog = new System.Windows.Forms.Button();
             button1 = new System.Windows.Forms.Button();
             btnClean = new System.Windows.Forms.Button();
@@ -258,7 +259,7 @@
             btncitanew.UseVisualStyleBackColor = true;
             btncitanew.Click += btncitanew_Click;
             // 
-            // Cita
+            // FrameCita
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -285,7 +286,8 @@
             Controls.Add(txtBuscar);
             DoubleBuffered = true;
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            Name = "Cita";
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
+            Name = "FrameCita";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Load += Cita_Load;
             ((System.ComponentModel.ISupportInitialize)dtCitas).EndInit();

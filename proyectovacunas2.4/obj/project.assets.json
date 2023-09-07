@@ -3377,26 +3377,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\volds\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
+    "C:\\Users\\WILLIAM\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\volds\\Desktop\\WIMAXCENTROMEDICO-main\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
+      "projectUniqueName": "C:\\Users\\WILLIAM\\Desktop\\FINALWIMAX\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
       "projectName": "proyectovacunas2.4",
-      "projectPath": "C:\\Users\\volds\\Desktop\\WIMAXCENTROMEDICO-main\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
-      "packagesPath": "C:\\Users\\volds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\volds\\Desktop\\WIMAXCENTROMEDICO-main\\proyectovacunas2.4\\obj\\",
+      "projectPath": "C:\\Users\\WILLIAM\\Desktop\\FINALWIMAX\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
+      "packagesPath": "C:\\Users\\WILLIAM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WILLIAM\\Desktop\\FINALWIMAX\\proyectovacunas2.4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\volds\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Users\\WILLIAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3405,7 +3402,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -3413,11 +3409,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\volds\\Desktop\\WIMAXCENTROMEDICO-main\\CapaBD\\CapaBD.csproj": {
-              "projectPath": "C:\\Users\\volds\\Desktop\\WIMAXCENTROMEDICO-main\\CapaBD\\CapaBD.csproj"
+            "C:\\Users\\WILLIAM\\Desktop\\FINALWIMAX\\CapaBD\\CapaBD.csproj": {
+              "projectPath": "C:\\Users\\WILLIAM\\Desktop\\FINALWIMAX\\CapaBD\\CapaBD.csproj"
             },
-            "C:\\Users\\volds\\Desktop\\WIMAXCENTROMEDICO-main\\Log_Negocio\\Log_Negocio.csproj": {
-              "projectPath": "C:\\Users\\volds\\Desktop\\WIMAXCENTROMEDICO-main\\Log_Negocio\\Log_Negocio.csproj"
+            "C:\\Users\\WILLIAM\\Desktop\\FINALWIMAX\\Log_Negocio\\Log_Negocio.csproj": {
+              "projectPath": "C:\\Users\\WILLIAM\\Desktop\\FINALWIMAX\\Log_Negocio\\Log_Negocio.csproj"
             }
           }
         }
@@ -3464,7 +3460,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   },

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MostrarTablaPersona));
             btnClean = new System.Windows.Forms.Button();
             btnTodo = new System.Windows.Forms.Button();
             btnBuscar = new System.Windows.Forms.Button();
@@ -183,6 +184,7 @@
             Controls.Add(txtBuscar);
             Controls.Add(lblPersona);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "MostrarTablaPersona";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             ((System.ComponentModel.ISupportInitialize)dtPersona).EndInit();

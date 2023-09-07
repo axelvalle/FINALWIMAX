@@ -44,7 +44,7 @@ namespace proyectovacunas2._4.Mostrar
             // y GuardarCambiosEnArchivo para trabajar con productos en lugar de recetas
             GuardarCambiosEnArchivo(dtProducto.DataSource as DataTable, Usuarios.UsuarioActual);
             GuardarCambiosEnBaseDeDatos(dtProducto.DataSource as DataTable, Usuarios.UsuarioActual);
-            
+
         }
 
         private void btnLog_Click(object sender, EventArgs e)
